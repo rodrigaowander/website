@@ -2,7 +2,18 @@
   "name": "rodrigo",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/rodrigaowander/website.git",
-  "author": "<Rodrigo> <<rodrigo31foda@gmail.com>>",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigaowander/website.git"
+  },
+  "author": " <Rodrigo>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodrigaowander/website/issues"
+  },
+  "homepage": "https://github.com/rodrigaowander/website#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": ""
 }
